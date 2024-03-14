@@ -40,7 +40,7 @@ __:memo: 1차 프로젝트__
 <br /><br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy33002&show_icons=true&theme=rose)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyoom&show_icons=true&theme=rose)
 
 </div>
 
