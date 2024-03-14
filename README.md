@@ -4,10 +4,6 @@
 
 <div align="center">
 <br />
-  
-__:microscope: Tech Stack :microscope:__
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy33002&layout=compact)
 <br />
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="20"/>
@@ -44,8 +40,6 @@ __:wrench: Tools :wrench:__
 <br />
 <br />
 <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyoom&show_icons=true&theme=rose)
 
 </div>
 
