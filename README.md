@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=hyungmin's%20GitHub&fontSize=50)
 
 <div align="center">
-<br /><br /><br /><br />
+<br /><br />
 
 
   
