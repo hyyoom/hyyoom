@@ -4,8 +4,6 @@
 
 <div align="center">
 <br />
-<br />
-
 
 __:wrench: Stacks :wrench:__
 
