@@ -10,7 +10,6 @@ __:microscope: Tech Stack :microscope:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sy33002&layout=compact)
 <br />
 
-
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="20"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="20"/>
@@ -30,7 +29,8 @@ __:microscope: Tech Stack :microscope:__
 
 <br />
 <br />
-
+<br />
+<br />
 __:wrench: Tools :wrench:__
 
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="20"/> 
@@ -38,8 +38,9 @@ __:wrench: Tools :wrench:__
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" height="20"/>
-<br /><br />
 
+<br />
+<br />
 <br />
 <br />
 
