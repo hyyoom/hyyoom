@@ -1,11 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" text="hyungmin" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=hyungmin's%20GitHub&fontSize=50&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=hyungmin's%20GitHub&fontSize=50)
 
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jihyung's%20GitHub&fontSize=50&animation=blinking)
 <br /><br /><br /><br />
 
 
