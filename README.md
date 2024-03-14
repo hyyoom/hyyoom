@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=hyungmin's%20GitHub&fontSize=50)
 
 <div align="center">
-<br /><br />
-
-
+<br />
   
 __:microscope: Tech Stack :microscope:__
 
@@ -41,10 +39,6 @@ __:wrench: Tools :wrench:__
 <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" height="20"/>
 <br /><br />
-
-__:low_brightness: SNS & Portfolio :low_brightness:__
-
-<a href='https://jihyungk.tistory.com/'><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://prickly-comet-aed.notion.site/4a1591384ba44ab1af31adbea38fb36c?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> </a>
 
 <br />
 <br />
