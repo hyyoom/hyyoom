@@ -36,7 +36,7 @@ __:low_brightness: SNS & Portfolio :low_brightness:__
 
 __:memo: 1차 프로젝트__
 
-<a href="https://github.com/sy33002/CRUD_project"><img src="https://github.com/sy33002/sy33002/assets/113359008/16df2acc-4963-4bbe-bdd2-88e1ba67a1d5" width=400 height=300> </a>
+<a href=""><img src="" width=400 height=300> </a>
 <br /><br />
 
 
