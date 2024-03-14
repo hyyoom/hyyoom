@@ -49,12 +49,6 @@ __:low_brightness: SNS & Portfolio :low_brightness:__
 <br />
 <br />
 
-__:memo: 1차 프로젝트__
-
-<a href=""><img src="" width=400 height=300> </a>
-<br /><br />
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyyoom&show_icons=true&theme=rose)
 
 </div>
