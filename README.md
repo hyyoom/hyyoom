@@ -1,8 +1,6 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=150&section=header&text=hyungmin's%20GitHub&fontSize=50)
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 
 <div align="center">
 
@@ -42,12 +40,6 @@ __:wrench: Tools :wrench:__
 <br />
 <br />
 <br />
-<a href="https://github.com/hyyoom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyoom&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/hyyoom/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyoom&repo=hyyoom.github.io&theme=buefy" />
-</a>
 
 
 </div>
