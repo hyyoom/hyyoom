@@ -1,6 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=150&section=header&text=hyungmin's%20GitHub&fontSize=50)
+<p align="center"><img width="80%" alt="Hello, I'm hyungmin" src="./assets/gh-readme-header.png" /></p>
 
 <div align="center">
 
@@ -40,12 +41,13 @@ __:wrench: Tools :wrench:__
 <br />
 <br />
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/hyyoom/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyoom&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyoom&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/hyyoom/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyyoom&repo=hyyoom.github.io&theme=buefy" />
 </a>
+
 
 </div>
 
